@@ -1,6 +1,13 @@
-Thanks for downloading this template!
+Charting-the-Course-of-Innovation-A-Startup-Analysis
 
-Template Name: Scaffold
-Template URL: https://bootstrapmade.com/scaffold-bootstrap-metro-style-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
+Demo Link
+https://drive.google.com/file/d/1_64bRhc1DU9TkwwAIrRPQGys4Nljtfs-/view?usp=share_link
+
+
+Dashboard Link
+https://public.tableau.com/views/StartupsAnalysis_16820646153780/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+Stroy Link
+https://public.tableau.com/views/StartupsAnalysisstory/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
